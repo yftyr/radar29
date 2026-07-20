@@ -1,3 +1,5 @@
 outputs/
+outputs_competition*/
+.mplconfig/
 __pycache__/
 *.pyc
